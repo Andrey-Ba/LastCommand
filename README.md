@@ -1,6 +1,6 @@
 # Implementation of last command
 
-print list of logins on the system
+Print list of logins on the system
 
 ## Installation and Usage
 
