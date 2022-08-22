@@ -11,7 +11,7 @@ git clone https://github.com/Andrey-Ba/LastCommand.git
 ```
 make
 ```
-* Can add argument to print last k entries
+* Run
 ```
 ./last
 ```
