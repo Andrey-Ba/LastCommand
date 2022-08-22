@@ -1,6 +1,8 @@
 # Implementation of last command
 
-### Installation
+print list of logins on the system
+
+## Installation and Usage
 
 * Clone the repository
 ```
